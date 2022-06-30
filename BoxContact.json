@@ -1,0 +1,38 @@
+[
+   {
+      "title":"Phone",
+      "icon":"http://edinareact.ibthemespro.com/img/address/phone.png",
+      "btn1":{
+         "name":"+452 666 386",
+         "url":"tel:+452666386"
+      },
+      "btn2":{
+         "name":"+465 562 226",
+         "url":"tel:+465562226"
+      }
+   },
+   {
+      "title":"Email",
+      "icon":"http://edinareact.ibthemespro.com/img/address/email.png",
+      "btn1":{
+         "name":"support@gmail.com",
+         "url":"mailto:support@gmail.com"
+      },
+      "btn2":{
+         "name":"example@support.com",
+         "url":"mailto:example@support.com"
+      }
+   },
+   {
+      "title":"Address",
+      "icon":"http://edinareact.ibthemespro.com/img/address/location.png",
+      "btn1":{
+         "name":"Envato 121 King St,",
+         "url":"#"
+      },
+      "btn2":{
+         "name":"Melbourne, Australia",
+         "url":"#"
+      }
+   }
+]

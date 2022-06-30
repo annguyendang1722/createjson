@@ -1,0 +1,34 @@
+[
+   {
+      "icon":"http://edinareact.ibthemespro.com/img/svg/1.svg",
+      "title":"Hyperlayer Integration",
+      "btn":{
+         "name":"See more",
+         "url":"#"
+      }
+   },
+   {
+      "icon":"http://edinareact.ibthemespro.com/img/svg/2.svg",
+      "title":"Ui/Ux Consultancy",
+      "btn":{
+         "name":"See more",
+         "url":"#"
+      }
+   },
+   {
+      "icon":"http://edinareact.ibthemespro.com/img/svg/3.svg",
+      "title":"Branding & Design",
+      "btn":{
+         "name":"See more",
+         "url":"#"
+      }
+   },
+   {
+      "icon":"http://edinareact.ibthemespro.com/img/svg/4.svg",
+      "title":"Mobile App Design",
+      "btn":{
+         "name":"See more",
+         "url":"#"
+      }
+   }
+]
